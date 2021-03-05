@@ -1,0 +1,29 @@
+{
+  "name": "armp-js",
+  "version": "0.0.1",
+  "description": "let string|any[]|obj to AM(([value,key])[])",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qolim/armp-js.git"
+  },
+  "keywords": [
+    "js",
+    "ts",
+    "array-js",
+    "map-js"
+  ],
+  "author": "ilim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qolim/armp-js/issues"
+  },
+  "homepage": "https://github.com/Qolim/armp-js#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
