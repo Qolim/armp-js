@@ -4,7 +4,7 @@
 
 ## use
 
-  npm i am-js -S
+  npm i armp-js -S
 
 
 ## api
